@@ -1,0 +1,49 @@
+{
+  "banner": {
+    "image": "https://raw.githubusercontent.com/telmi-store-cn/.github/main/profile/banner-telmi.jpg",
+    "background": "#2e144b",
+    "link": "https://discord.gg/ZTA5FyERbg"
+  },
+  "data": [
+    {
+      "age": 3,
+      "title": "Tuzi de gushi",
+      "description": "# [3+] Tuzi de gushi (CN)\n\n兔子的故事\n这是第一套中文故事集 \n包含两个以兔子为主角的故事。\n\n作者 Beatrix Potter",
+      "thumbs": {
+        "small": "https://raw.githubusercontent.com/telmi-store-cn/tuzi-de-gushi/main/thumbnail.jpg",
+        "medium": "https://raw.githubusercontent.com/telmi-store-cn/tuzi-de-gushi/main/thumbnail.jpg"
+      },
+      "download": "https://github.com/telmi-store-cn/tuzi-de-gushi/releases/download/Latest/tuzi-de-gushi.zip",
+      "download_count": 6,
+      "awards": [],
+      "created_at": "2025-11-16T12:04:09Z",
+      "updated_at": "2025-11-16T12:04:09Z",
+      "author": "Beatrix Potter",
+      "voice": "Panda Tree",
+      "designer": "Heuzef",
+      "publisher": "Telmi Interactive",
+      "category": "Gushi",
+      "version": "3",
+      "license": "没有许可证"
+    },
+    {
+      "age": 3,
+      "title": "Xia Lu Ban Bi",
+      "description": "# [3+] Xiao Lu Ban Bi (CN)\n\n《小鹿斑比》原始小说法律地位与版权许可摘要\n\n作者 Felix Salten",
+      "thumbs": {
+        "small": "https://raw.githubusercontent.com/telmi-store-cn/xiao-lu-ban-bi/main/thumbnail.jpg",
+        "medium": "https://raw.githubusercontent.com/telmi-store-cn/xiao-lu-ban-bi/main/thumbnail.jpg"
+      },
+      "download": "https://github.com/telmi-store-cn/xiao-lu-ban-bi/releases/download/Latest/xiao-lu-ban-bi.zip",
+      "download_count": 1,
+      "awards": [],
+      "created_at": "2026-08-01T16:52:16Z",
+      "updated_at": "2026-08-01T16:52:16Z",
+      "author": "Felix Salten",
+      "voice": "吳爾笠 · 蔡榮吉 · 鐘惠貞 · 許鈺珮 · 林玫君 · 蔡榮吉 · 蔡榮吉",
+      "designer": "Heuzef",
+      "category": "Gushi",
+      "license": "© Heuzef"
+    }
+  ]
+}
